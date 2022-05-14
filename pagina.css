@@ -1,0 +1,154 @@
+body{
+    background: url(fondopagina.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+ }
+ .encabezado{
+     width: 100%;
+     height: 250px;
+     background-color: rgba(175, 136, 190, 0.658);
+    
+ }
+ .titulo1{
+     padding-bottom: 100px;
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     display: inline-block;
+     padding-bottom: 5px;
+     color: rgba(171, 232, 247, 0.877);
+ 
+ }
+  .titulo2{
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     color: rgba(171, 232, 247, 0.877);
+     width: 200px;
+     padding-left: 650px;
+     
+     display: inline-block;
+     font-size: 20px;
+ }
+ 
+ #visitas{
+     display: inline-block;
+ }
+ .subtitulos{
+     font-size: 20px;
+     font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     color: rgb(255, 254, 255) ;
+     border-radius: 5px;
+     background-color:  rgba(80, 79, 148, 0.664);
+     border-top: 150px, 150px;
+     border-top: rgba(97, 32, 202, 0.699) solid;
+     border-bottom: rgba(97, 32, 202, 0.699) solid;
+     border-left: rgba(97, 32, 202, 0.699) solid;
+     border-right: rgba(97, 32, 202, 0.699)solid;
+     padding-left: 5px;
+     padding-top: 5px;
+     padding-right: 5px;
+     padding-bottom: 5px;
+     margin-top: 25px;
+     margin-left: 150px;
+ }
+ 
+ .paginas{
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+     font-size: 25px;
+     color:  rgba(233, 233, 233, 0.884);
+     height: 35px;
+     width: 1158px;
+     background-color: rgba(80, 79, 148, 0.664);
+     border-top: 150px, 150px;
+     border: rgba(97, 32, 202, 0.699) solid;
+     padding-left: 710px;   
+     margin-top: 50px;
+     padding-top: 10px;
+     font-size: 20px;
+     color: aliceblue;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+ }
+ 
+ .imagen1{
+     margin-left: 50px;
+     margin-top: 5px;
+     vertical-align: middle;
+     width: 175px;
+ }
+ 
+ 
+ .tipospaginas{
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size: 20px;
+     color: rgba(195, 219, 230, 0.979);
+     display: inline;
+     padding-left: 10px;
+     margin-left: 150px;
+ }
+ 
+ .tipospaginas:hover{
+     color: aliceblue;
+     background-color: rgb(87, 40, 150);
+     border-radius: 5px;
+     padding: 5px;
+ }
+ 
+ .tipopagina{
+    width: 100%;
+    height: 37px;
+    background-color: #435048;
+    background-color: rgba(80, 79, 148, 0.664);
+    padding-top: 8px;
+    align-items: center;
+ }
+ .superior{
+     margin-top: 5px;
+     display: inline-block;
+     padding-bottom: 5px;
+     background-color: #435048;
+     height: 200px;
+     width: 500px;
+ }
+ .parrafo{
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size: 18px;
+     color: azure;
+     height: 140px;
+     width: 500px;
+     background-color: rgba(80, 79, 148, 0.664);
+     border-top: 150px, 150px;
+     border: rgba(97, 32, 202, 0.699) solid;
+     padding: 10px;
+     margin-left: 150px;
+     
+ }
+ 
+ .imegenserie{
+     height: 250px;
+     width: 350px;
+     margin-bottom: 25px;
+     vertical-align: middle;
+     display: inline;
+     margin-left: 210px;
+     border-top: 150px, 150px;
+     border: rgba(97, 32, 202, 0.699) solid;
+     box-shadow: 15px 15px 15px;
+ }
+ 
+ .imegenserie1{
+     height: 220px;
+     width: 150px;
+     margin-bottom: 25px;
+     margin-left: 315px;
+     border-top: 150px, 150px;
+     border: rgba(97, 32, 202, 0.699) solid;
+     box-shadow: 15px 15px 15px;
+ }
+ 
+ .todo{
+     display: flex;
+     flex-wrap: wrap;
+     align-items: center;
+     padding: 10px;
+ }
+ 
+ 
